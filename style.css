@@ -74,9 +74,9 @@ p {
 }
 
 
-.twitter a:hover,
-.twitter a:focus,
-.twitter a:active {
+.twitter:hover,
+.twitter:focus,
+.twitter:active {
     background-color: #0b7bc1;
 }
 
@@ -93,9 +93,9 @@ p {
     text-decoration: none;
 }
 
-.facebook a:hover, 
-.facebook a:focus, 
-.facebook a:active {
+.facebook:hover, 
+.facebook:focus, 
+.facebook:active {
     background-color: #2b406e;
 }
 
